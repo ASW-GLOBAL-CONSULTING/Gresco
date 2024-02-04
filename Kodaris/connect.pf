@@ -1,0 +1,2 @@
+-db nxt -H sxe2016 -S 7100 -ld maindb
+-db nxtwi -H sxe2016 -S 7101 -ld widb
